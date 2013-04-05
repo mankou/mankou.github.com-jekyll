@@ -1,6 +1,8 @@
 --- 
 layout: post
 title: 如何成为强大程序员
+category: essay
+tags: [个人提升]
 --- 
 
 ##如何成为强大的程序员？
