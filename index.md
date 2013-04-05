@@ -7,19 +7,21 @@ tagline: push push……
 
 
 ## Update Author Attributes
-my logo:
+my logo or some useful sentence:
 
     小马向前走push push
 	mankou push push
+	小马其实找的是感觉……
+	你在做重要的事么？
     
     
    
-The theme should reference these variables whenever needed.
-
+do you want konw me further?
 1. [近况](http://mankou.github.com/2013/04/05/recent)
 1. [联系](http://mankou.github.com/2013/04/05/address)
 1. [readme](http://mankou.github.com/2013/04/05/Readme)
     
+
 ## Rescent Posts
 
 Here's a sample "posts list".
