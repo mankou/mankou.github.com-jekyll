@@ -17,7 +17,7 @@ In `_config.yml` remember to specify your own data:
       email : blah@email.test
       github : username
       twitter : username
-    [近况](http://mankou.github.com/essay/2013/04/05/recent)
+      [近况](http://mankou.github.com/essay/2013/04/05/recent)
 
 The theme should reference these variables whenever needed.
     
