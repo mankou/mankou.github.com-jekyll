@@ -25,6 +25,12 @@ do you want to know me further?
 
 ## Rescent Ten Posts
 
+  {% for post in site.posts limit:10 %}
+  {%if forloop.index == forloop.length %}
+  1212
+  {% endif%}
+  {% endfor %}
+
 Here's a sample "posts list".
 
 <ul class="posts">
