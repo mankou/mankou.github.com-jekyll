@@ -1,6 +1,7 @@
 ---
 layout: post
 category : lessons
+title: 软件开发人员的悲哀
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
 ---
