@@ -8,16 +8,12 @@ tagline: push push……
 
 ## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
+my logo:
+    小马向前走push push
+	mankou push push
     
-    title : My Blog =)
     
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
+   
 The theme should reference these variables whenever needed.
 
 1. [近况](http://mankou.github.com/2013/04/05/recent)
