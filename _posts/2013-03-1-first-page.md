@@ -1,6 +1,6 @@
 --- 
 layout: post
-category: [随笔,技术笔记]
+category: [lessons]
 tags: [test,git]
 --- 
 {% include JB/setup %}
