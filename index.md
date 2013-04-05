@@ -27,7 +27,7 @@ do you want to know me further?
 
   {% for post in site.posts limit:10 %}
   {%if forloop.index == forloop.length %}
-  1212
+  Total{{forloop.index}}Posts
   {% endif%}
   {% endfor %}
 
