@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : [随笔,技术笔记]
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
 ---
