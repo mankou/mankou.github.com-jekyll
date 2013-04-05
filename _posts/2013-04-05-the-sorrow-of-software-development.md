@@ -3,7 +3,7 @@ layout: post
 category : essay
 title: 软件开发人员的悲哀
 tagline: "Supporting tagline"
-tags : []
+tags : [行业发展]
 ---
 {% include JB/setup %}
 

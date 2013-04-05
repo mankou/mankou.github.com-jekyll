@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : essay
 tagline: "Supporting tagline"
 tags : []
 ---
