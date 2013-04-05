@@ -5,9 +5,6 @@ tagline: push push……
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes
 
@@ -24,9 +21,6 @@ In `_config.yml` remember to specify your own data:
 The theme should reference these variables whenever needed.
     
 ## Rescent Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
 Here's a sample "posts list".
 
