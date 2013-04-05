@@ -16,7 +16,7 @@ my logo or some useful sentence:
     
     
    
-do you want konw me further?
+do you want to know me further?
 1. [近况](http://mankou.github.com/2013/04/05/recent)
 1. [联系](http://mankou.github.com/2013/04/05/address)
 1. [readme](http://mankou.github.com/2013/04/05/Readme)
