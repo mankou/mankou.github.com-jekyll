@@ -29,7 +29,7 @@ Here's a sample "posts list".
 
   {% for post in site.posts %}
   
-  if(post=={{forloop.length}}){
+  if({{forloop.index}}=={{forloop.length}}){
    haha
    }
   {% endfor %}
