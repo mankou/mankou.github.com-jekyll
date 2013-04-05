@@ -27,7 +27,7 @@ do you want to know me further?
 
   {% for post in site.posts %}
 	  {%if forloop.index == forloop.length %}
-		  Total `{{forloop.index}}` Posts
+		  Total {{forloop.index}} Posts
 	  {% endif%}
   {% endfor %}
 
