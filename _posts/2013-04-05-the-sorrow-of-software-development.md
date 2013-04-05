@@ -2,6 +2,7 @@
 layout: post
 category: essay
 title: 软件开发人员的悲哀
+tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
