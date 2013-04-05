@@ -7,8 +7,7 @@ tagline: push push……
 
 
 ## Update Author Attributes
-
-    my logo:
+my logo:
     小马向前走push push
 	mankou push push
     
