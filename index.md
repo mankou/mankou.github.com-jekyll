@@ -23,7 +23,7 @@ In `_config.yml` remember to specify your own data:
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
+## Rescent Posts
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
