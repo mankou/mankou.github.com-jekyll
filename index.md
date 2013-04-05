@@ -28,7 +28,7 @@ do you want to know me further?
 Here's a sample "posts list".
 
 <ul class="posts">
-{forloop.length}
+{{forloop.length}}
   {% for post in site.posts limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
