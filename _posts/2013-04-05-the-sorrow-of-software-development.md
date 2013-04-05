@@ -1,6 +1,6 @@
 ---
 layout: post
-category : essay
+category: essay
 title: 软件开发人员的悲哀
 ---
 {% include JB/setup %}
