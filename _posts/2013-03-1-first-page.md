@@ -1,6 +1,5 @@
 --- 
 layout: post
-title: HelloWorld
 category: [随笔,技术笔记]
 tags: [test,git]
 --- 
