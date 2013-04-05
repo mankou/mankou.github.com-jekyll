@@ -7,6 +7,7 @@ tags: [test, git]
 {%include JB/setup%}
 ## 2013-4-5 14:16
 1. 出现故障，最后重新按照`jekyll`搭建了博客，原来的版本控制信息丢失。具体原因不清楚
+1. 趁此机会重新修改了主页
 ## 2013-3-1 20:45
 1. 根据[blogging with Jekyll](http://jekyllbootstrap.com/)的快速教程搭建了一个博客
 1. 问题1：虽然我想要的功能都有了，但网页格式我不喜欢太白了，想改又不会用`Theme`
