@@ -21,6 +21,8 @@ In `_config.yml` remember to specify your own data:
 The theme should reference these variables whenever needed.
 
 1. [近况](http://mankou.github.com/essay/2013/04/05/recent)
+1. [联系](http://mankou.github.com/essay/2013/04/05/address)
+1. [readme](http://mankou.github.com/essay/2013/04/05/readme)
     
 ## Rescent Posts
 
