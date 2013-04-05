@@ -29,9 +29,9 @@ Here's a sample "posts list".
 
   {% for post in site.posts %}
   
-  {%if{{forloop.index}}=={{forloop.length}}%}
+  {%if {{forloop.index}}=={{forloop.length}} %}
    haha
-   }
+  {% endif %}
   {% endfor %}
 <ul class="posts">
   {% for post in site.posts limit:5 %}
