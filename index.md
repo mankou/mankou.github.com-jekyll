@@ -32,6 +32,7 @@ Here's a sample "posts list".
   {%if {{forloop.index}}=={{forloop.length}} %}
    haha
   {% endif %}
+  vava
   {% endfor %}
 <ul class="posts">
   {% for post in site.posts limit:5 %}
