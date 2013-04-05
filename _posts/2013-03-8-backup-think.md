@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 关于备份的思考
-category: 随笔
+category: essay
 --- 
 
 #为什么要备份

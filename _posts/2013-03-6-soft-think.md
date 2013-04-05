@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 软件随想
-category: 随笔
+category: essay
 --- 
 
 窗口与脚本最大的区别在于脚本可以重复、自动化。
