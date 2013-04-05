@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: github搭建博客历程
-category: 技术笔记
+category: technote
 tags: [test, git]
 --- 
 {%include JB/setup%}

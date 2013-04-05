@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: markdown语法记录
-category: 技术笔记
+category: technote
 --- 
 
 1. 换行的写法：2个空格(如果一行中有两个空格就代表要换行`<br>`)

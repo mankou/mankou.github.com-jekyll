@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: windows下git 无密码push到github
-category: 技术笔记
+category: technote
 tags: [git]
 --- 
 {%include JB/setup%}

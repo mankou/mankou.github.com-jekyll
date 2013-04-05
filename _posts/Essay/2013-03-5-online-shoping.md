@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 论网购
-category: 随笔
+category: essay
 tags: [行业发展]
 --- 
 {%include JB/setup%}
