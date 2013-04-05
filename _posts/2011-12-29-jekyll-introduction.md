@@ -1,5 +1,6 @@
 ---
 layout: post
+title: jekyll-introduction
 category : essay
 tagline: "Supporting tagline"
 tags : []

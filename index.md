@@ -19,6 +19,7 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
+[近况](http://mankou.github.com/essay/2013/04/05/recent)
     
 ## Rescent Posts
 
