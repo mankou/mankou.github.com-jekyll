@@ -2,7 +2,7 @@
 layout: post
 title: github搭建博客历程
 category: technote
-tags: [test, git]
+tags: [git]
 --- 
 {%include JB/setup%}
 ## 2013-4-5 14:16
