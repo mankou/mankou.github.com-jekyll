@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 软件、技术的选择有时候更重要，
-category : technote
+title: 软件、技术的选择有时候更重要
+category : essay
 tagline: "Supporting tagline"
-tags : [行业发展]
+tags : []
 ---
 {% include JB/setup %}
 
