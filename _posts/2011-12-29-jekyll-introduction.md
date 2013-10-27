@@ -3,7 +3,7 @@ layout: post
 title: jekyll-introduction
 category : essay
 tagline: "Supporting tagline"
-tags : [git 个人提升 行业发展 随想]
+tags : [git,个人提升,行业发展,随想]
 ---
 {% include JB/setup %}
 category: technotes
