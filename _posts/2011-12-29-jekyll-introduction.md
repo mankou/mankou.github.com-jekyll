@@ -1,12 +1,13 @@
 ---
 layout: post
 title: jekyll-introduction
-category : essay
+category : essay technote
 tagline: "Supporting tagline"
-tags : []
+tags : [git 个人提升 行业发展 随想]
 ---
 {% include JB/setup %}
-
+category: technotes essay
+tags:目前有 git 个人提升 行业发展 随想
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 

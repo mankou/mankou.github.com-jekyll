@@ -3,7 +3,7 @@ layout: post
 title: 要事第一我的理解
 category : essay
 tagline: "Supporting tagline"
-tags : []
+tags : [随想]
 ---
 {% include JB/setup %}
 
