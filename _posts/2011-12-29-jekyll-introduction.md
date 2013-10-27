@@ -17,9 +17,9 @@ category: essay
 
 tags: [git,个人提升,行业发展,随想]  
 # 格式规范说明
-* category 只有两种 要么是essay 要么是technotes
-* category 后面的essay/technotes不要加方括号[]
-* tags：要用[]括起来，并且两个tag之间要以逗号,分隔
+* category 只有两种 要么是essay 要么是technotes 
+* category 后面的essay/technotes不要加方括号[] 如 category : essay 而不是 category : [essay] 如果你写成这样，则其category为[essay了]
+* tags：要用[]括起来，并且两个tag之间要以逗号,分隔。如 tags : [git,个人提升,行业发展,随想]
 
 # Jekyll introduction
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
