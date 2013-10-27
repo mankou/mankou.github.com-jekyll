@@ -6,9 +6,18 @@ tagline: "Supporting tagline"
 tags : [git,个人提升,行业发展,随想]
 ---
 {% include JB/setup %}
-category: technotes
-category: essay
-tags:[git 个人提升 行业发展 随想]
+一般建新文件可以直接复制该文件然后修改一些属性即可，下面会对一些细节进行说明
+# 快速复制
+写category或者tags时可以快速复制下面的格式 
+category: technotes 
+category: essay 
+tags: [git,个人提升,行业发展,随想] 
+# 格式规范说明
+* category 只有两种 要么是essay 要么是technotes
+* category 后面的essay/technotes不要加方括号[]
+* tags：要用[]括起来，并且两个tag之间要以逗号,分隔
+
+# Jekyll introduction
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
