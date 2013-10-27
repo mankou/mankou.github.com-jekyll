@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 软件、技术的选择有时候更重要，
-category : [technote]
+category : technote
 tagline: "Supporting tagline"
 tags : [行业发展]
 ---
