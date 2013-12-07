@@ -31,10 +31,10 @@ do you want to know me further?
 	  {% endif%}
   {% endfor %}
 
-Here's a sample "posts list".
+Here's a sample recent ten posts
 
 <ul class="posts">
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:12 %}
   {%if post.title !='Readme' and post.title !='联系方式' and post.title !='近况' %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
  {% endif %}
