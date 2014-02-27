@@ -10,4 +10,4 @@ git add --all $baseDir
 message=`date +%Y-%m-%d-%H:%M-%A`
 message=\"$message\"
 git commit  -m $message
-git push origin master
+git push github master
