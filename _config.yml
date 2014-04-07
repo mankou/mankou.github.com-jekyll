@@ -125,4 +125,6 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+ 
+# 2014-04-07 我收到邮件说人家的markdown翻译器换成这个了 让我加上这句话
+ markdown: kramdown
