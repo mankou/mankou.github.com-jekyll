@@ -1,10 +1,4 @@
----
-layout: post
-title: jekyll-introduction
-category: essay
-tagline: "Supporting tagline"
-tags : [git,个人提升,行业发展,随想]
----
+
 
 一般建新文件可以直接复制该文件然后修改一些属性即可，下面会对一些细节进行说明  
 # 快速复制
