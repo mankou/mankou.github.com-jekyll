@@ -36,7 +36,7 @@ tags : [个人提升,随想]
 9. 软件卸载：clean my mac
 10. 上gmail:shadowsocksX
 11. 本地音乐播放：vox   云音乐播放：网易云音乐
-13. 剪切板增强 BetterTouchTool
+13. 触摸板增强 BetterTouchTool
 14. 时间线：timeline3D
 15. 思维导图：mindnode pro
 16. 单词记忆：ProVoc
