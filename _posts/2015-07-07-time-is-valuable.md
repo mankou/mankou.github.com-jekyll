@@ -1,4 +1,12 @@
 # 我们的时间很宝贵
+---
+layout: post
+title: 我们的时间很宝贵
+category : essay
+tagline: "Supporting tagline"
+tags : [个人提升,随想]
+---
+{% include JB/setup %}
 
 用大量的时间寻找各种盗版软件的注册码和注册机，而不是去购买几十块钱的正版软件
 
