@@ -43,5 +43,5 @@ tags : [个人提升,随想]
 16. 单词记忆：ProVoc
 17. 一键打开程序：apptivate
 17. markdown软件：mou
-18. 视频下载：硕鼠mac、folx3
+18. 视频相关：硕鼠mac、folx3、air video、VLC、MplayerX
 19. 防止休眠：owly、caffeine
