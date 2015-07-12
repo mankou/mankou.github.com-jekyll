@@ -26,7 +26,7 @@ tags : [个人提升,随想]
 
 ## 好用的软件推荐
 1. 快速启动软件 alfred
-2. 虚拟机软件 parallels
+2. 虚拟机软件 parallels、palua(使用虚拟机时使用F1-12功能键)
 3. 笔记管理 evernote
 4. 文档管理 devothink
 5. 日历软件 fantastical
@@ -40,6 +40,7 @@ tags : [个人提升,随想]
 14. 时间线：timeline3D
 15. 思维导图：mindnode pro
 16. 单词记忆：ProVoc
+17. 一键打开程序：apptivate
 17. markdown软件：mou
 18. 视频下载：硕鼠mac、folx3
 19. 防止休眠：owly、caffeine
